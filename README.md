@@ -14,16 +14,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 07 January 2025
+From: 21 November 2023 - To: 08 January 2025
 
-Total Time: 1,105 hrs 5 mins
+Total Time: 1,108 hrs 25 mins
 
-JavaScript         732 hrs 8 mins  ████████████████▓░░░░░░░░   66.25 %
-TypeScript         191 hrs 18 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-Other              71 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Bash               18 hrs 24 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JSON               15 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-SCSS               12 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+JavaScript         735 hrs 27 mins ████████████████▓░░░░░░░░   66.35 %
+TypeScript         191 hrs 18 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
+Other              71 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Bash               18 hrs 24 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+JSON               15 hrs 1 min    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+SCSS               12 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 Dart               10 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
