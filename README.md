@@ -36,7 +36,7 @@ Dart               10 hrs 8 mins   ▒░░░░░░░░░░░░░░
 - 🕊️ For me learning is not only from literature, I like to learn something new from people about anything
 - ⚡ Fun fact: I am <!-- dead inside 🙂 --> an ordinary person who believes in <strong>PROGRESS</strong>!
 - 💬 Ask me about anything [here](https://github.com/faishaldev/faishaldev/issues)
-- 🗒️ Gimme some advice anonymously [here](https://secreto.site/aqpt97)
+- 🗒️ Gimme some advice anonymously [here](https://secreto.site/ayj9s7)
 
 <div align="center">
   <a href="https://open.spotify.com/user/31py5qf5z7v74gghjkrfhk2jh2ze">
