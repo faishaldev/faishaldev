@@ -14,17 +14,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 11 January 2025
+From: 21 November 2023 - To: 12 January 2025
 
-Total Time: 1,120 hrs 14 mins
+Total Time: 1,121 hrs 45 mins
 
-JavaScript         745 hrs 55 mins ████████████████▓░░░░░░░░   66.59 %
-TypeScript         191 hrs 30 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+JavaScript         747 hrs 16 mins ████████████████▓░░░░░░░░   66.62 %
+TypeScript         191 hrs 30 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
 Other              71 hrs 24 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 Bash               18 hrs 24 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 JSON               15 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 SCSS               12 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Dart               10 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Dart               10 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
