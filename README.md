@@ -14,16 +14,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 20 January 2025
+From: 21 November 2023 - To: 22 January 2025
 
-Total Time: 1,141 hrs 3 mins
+Total Time: 1,147 hrs 1 min
 
-JavaScript         753 hrs 22 mins ████████████████▓░░░░░░░░   66.02 %
-TypeScript         201 hrs 40 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
-Other              71 hrs 36 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Bash               19 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-JSON               15 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-SCSS               12 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JavaScript         754 hrs 19 mins ████████████████▒░░░░░░░░   65.76 %
+TypeScript         206 hrs 18 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
+Other              71 hrs 42 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Bash               19 hrs 41 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+JSON               15 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+SCSS               12 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 CSS                10 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
