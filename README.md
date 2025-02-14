@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="https://wakatime.com/@faishaldev">
+  <a href="https://wakatime.com/@faishaldev" style="text-decoration-line: none; text-decoration: none;">
 <!--START_SECTION:waka-->
 
 ```txt
