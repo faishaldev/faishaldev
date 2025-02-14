@@ -10,8 +10,7 @@
   <a href="https://app.daily.dev/faishaldev"><img src="https://api.daily.dev/devcards/v2/b1fp8o9cS5GrrpMy6s2N5.png?r=653&type=default" width="162" alt="m's Dev Card" align="right" /></a>
 </div>
 
-  <a href="https://wakatime.com/@faishaldev" style="text-decoration-line: none; text-decoration: none;">
-    <div align="center">
+<div align="center">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -29,8 +28,7 @@ CSS                10 hrs 33 mins  ▒░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-  </div>
-</a>
+</div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
