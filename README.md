@@ -12,23 +12,23 @@
 
 <div align="center">
   <a href="https://wakatime.com/@faishaldev">
-    <!--START_SECTION:waka-->
-    
-    ```txt
-    From: 21 November 2023 - To: 12 February 2025
-    
-    Total Time: 1,187 hrs 48 mins
-    
-    JavaScript         757 hrs 53 mins ████████████████░░░░░░░░░   63.81 %
-    TypeScript         239 hrs 5 mins  █████░░░░░░░░░░░░░░░░░░░░   20.13 %
-    Other              71 hrs 51 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-    Bash               20 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-    JSON               15 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-    SCSS               12 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-    CSS                10 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-    ```
-    
-    <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+```txt
+From: 21 November 2023 - To: 12 February 2025
+
+Total Time: 1,187 hrs 48 mins
+
+JavaScript         757 hrs 53 mins ████████████████░░░░░░░░░   63.81 %
+TypeScript         239 hrs 5 mins  █████░░░░░░░░░░░░░░░░░░░░   20.13 %
+Other              71 hrs 51 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Bash               20 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+JSON               15 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+SCSS               12 hrs 53 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+CSS                10 hrs 33 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+```
+
+<!--END_SECTION:waka-->
   </a>
 </div>
 
