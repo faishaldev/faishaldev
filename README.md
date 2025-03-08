@@ -38,15 +38,9 @@ CSS                11 hrs 21 mins  ▒░░░░░░░░░░░░░░
 - 💬 Ask me about anything [here](https://github.com/faishaldev/faishaldev/issues)
 - 🗒️ Gimme some advice anonymously [here](https://secreto.site/ayj9s7)
 
-<div align="center">
   <a href="https://open.spotify.com/user/31py5qf5z7v74gghjkrfhk2jh2ze">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" align="right" width="126px" />
   </a>
-  <a href="https://discord.com/users/1226907338158375048">
-    <img src="https://lanyard.cnrad.dev/api/1226907338158375048" align="right" width="330px" />
-  </a>
-</div>
-
 
 ```js
 // my life cycle
