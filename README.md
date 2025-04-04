@@ -11,6 +11,12 @@
 </div>
 
 <div align="center">
+  <a href="https://open.spotify.com/user/31py5qf5z7v74gghjkrfhk2jh2ze">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" align="right" width="111px" />
+  </a>
+</div>
+
+<div align="center">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -38,19 +44,6 @@ CSS                12 hrs 23 mins  ▒░░░░░░░░░░░░░░
 - 💬 Ask me about anything [here](https://github.com/faishaldev/faishaldev/issues)
 - 🗒️ Gimme some advice anonymously [here](https://secreto.site/ayj9s7)
 
-  <a href="https://open.spotify.com/user/31py5qf5z7v74gghjkrfhk2jh2ze">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" align="right" width="111px" />
-  </a>
-
-```js
-// my life cycle
-
-while (me.isAlive()) {
-  me.eat();
-  me.sleep();
-  me.code();
-}
-```
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <h3 align="center">🔥 Problem Solving Skills 🔥</h3>
