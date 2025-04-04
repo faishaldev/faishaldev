@@ -11,12 +11,6 @@
 </div>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31py5qf5z7v74gghjkrfhk2jh2ze">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" align="right" width="153" />
-  </a>
-</div>
-
-<div align="center">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -37,6 +31,12 @@ CSS                12 hrs 23 mins  ▒░░░░░░░░░░░░░░
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31py5qf5z7v74gghjkrfhk2jh2ze">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31py5qf5z7v74gghjkrfhk2jh2ze&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" align="right" width="136" />
+  </a>
+</div>
 
 - 🌱 I am currently learning new technology and all good things related to life
 - 🕊️ For me learning is not only from literature, I like to learn something new from people about anything
