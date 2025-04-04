@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/faishaldev">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;My+name+is+Faishal;I+am+a+software+engineer;Welcome+to+my+profile;Nice+to+meet+you!&center=true&size=28" alt="Musshal's running text"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;My+name+is+Faishal;I+am+a+software+engineer;Welcome+to+my+profile;Nice+to+meet+you!&center=true&size=28" alt="Faishal's running text"/>
   </a>
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
 <div align="center">
-  <a href="https://app.daily.dev/faishaldev"><img src="https://api.daily.dev/devcards/v2/b1fp8o9cS5GrrpMy6s2N5.png?r=653&type=default" width="162" alt="m's Dev Card" align="right" /></a>
+  <a href="https://app.daily.dev/faishaldev"><img src="https://api.daily.dev/devcards/v2/b1fp8o9cS5GrrpMy6s2N5.png?r=653&type=default" width="160" alt="m's Dev Card" align="right" /></a>
 </div>
 
 <div align="center">
@@ -74,16 +74,16 @@ while (me.isAlive()) {
 
 <div align="center">
   <a href="https://github.com/faishaldev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishaldev&theme=tokyonight" alt="Musshal's github stats" align="left" height="365px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishaldev&theme=tokyonight" alt="Faishal's github stats" align="left" height="365px" />
   </a>
   <a href="https://github.com/faishaldev">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faishaldev&theme=tokyonight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Musshal's github stats" width="440px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=faishaldev&theme=tokyonight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Faishal's github stats" width="440px" />
     </a><br />
   <a href="https://github.com/faishaldev">
-    <img src="https://github-readme-stats.vercel.app/api?username=faishaldev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Musshal's github stats" width="440x" />
+    <img src="https://github-readme-stats.vercel.app/api?username=faishaldev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Faishal's github stats" width="440x" />
   </a>
   <a href="https://github.com/faishaldev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faishaldev&theme=tokyo-night&hide_border=false" alt="Musshal's activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faishaldev&theme=tokyo-night&hide_border=false" alt="Faishal's activity graph" />
   </a>
 </div>
 
