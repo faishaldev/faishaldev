@@ -6,11 +6,11 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
-- 🌱 I am always learning new technology and all good things related to life
-- 🕊️ For me learning is not only from literature, I like to learn something new from everyone about anything
-- ⚡ Fun fact: I am <!-- dead inside 🙂 --> an ordinary person who believes in <strong>PROGRESS</strong>!
-- 💬 Ask me about anything [here](https://github.com/faishaldev/faishaldev/issues)
-- 🗒️ Gimme some advice anonymously [here](https://secreto.site/ayj9s7)
+- 🌱 I'm always learning new technologies and anything good related to life.
+- 🕊️ For me, learning doesn't just come from books—I enjoy learning something new from everyone, about anything.
+- ⚡ Fun fact: I'm <!-- dead inside 🙂 --> just an ordinary person who believes in <strong>PROGRESS</strong>!
+- 💬 Feel free to ask me anything [here](https://github.com/faishaldev/faishaldev/issues).
+- 🗒️ Got advice for me? Drop it anonymously [here](https://secreto.site/ayj9s7)!
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
