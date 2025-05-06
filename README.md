@@ -37,7 +37,7 @@ CSS                12 hrs 25 mins  ▒░░░░░░░░░░░░░░
 
 <div align="center">
   <a href="https://app.daily.dev/faishaldev"><img src="https://api.daily.dev/devcards/v2/b1fp8o9cS5GrrpMy6s2N5.png?r=653&type=default" alt="Faishal's Dev Card" width="200" align="left" /></a>
-  <a href="https://discord.com/users/1226907338158375048"><img src="https://lanyard.cnrad.dev/api/1226907338158375048?showDisplayName=true" alt="Faishal's Discord Profile" width="575" align="right" /></a>
+  <a href="https://discord.com/users/1226907338158375048"><img src="https://lanyard.cnrad.dev/api/1226907338158375048?hideTimestamp=true&showDisplayName=true" alt="Faishal's Discord Profile" width="575" align="right" /></a>
 </div>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
