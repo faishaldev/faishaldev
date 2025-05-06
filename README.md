@@ -8,6 +8,7 @@
 
 <div align="center">
   <a href="https://app.daily.dev/faishaldev"><img src="https://api.daily.dev/devcards/v2/b1fp8o9cS5GrrpMy6s2N5.png?r=653&type=default" alt="Faishal's Dev Card" width="139" align="right" /></a>
+  <a href="https://discord.com/users/1226907338158375048"><img src="https://lanyard.cnrad.dev/api/1226907338158375048?showDisplayName=true" alt="Faishal's Discord Profile" align="right" /></a>
 </div>
 
 <div align="center">
