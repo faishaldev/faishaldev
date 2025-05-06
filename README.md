@@ -16,6 +16,8 @@
 
 <h3 align="center">💻 Activities Log 💻</h3>
 
+<br />
+
 <div align="center">
 <!--START_SECTION:waka-->
 
