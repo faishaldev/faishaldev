@@ -22,4 +22,5 @@ jobs:
           SHOW_MASKED_TIME: true
           LANG_COUNT: 7
           IGNORED_LANGUAGES: YAML JSON TOML
+          BLOCKS: -#
           
