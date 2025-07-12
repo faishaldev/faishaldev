@@ -66,7 +66,7 @@ SCSS               12 hrs 53 mins  -------------------------   00.79 %
 
 <div align="center">
   <a href="https://github.com/faishaldev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishaldev&theme=tokyonight" alt="Faishal's github stats" align="left" width="385px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishaldev&theme=tokyonight" alt="Faishal's github stats" align="left" width="383px" />
   </a>
   <a href="https://github.com/faishaldev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=faishaldev&theme=tokyonight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Faishal's github stats" width="440px" />
