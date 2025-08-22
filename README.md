@@ -22,16 +22,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 20 August 2025
+From: 21 November 2023 - To: 21 August 2025
 
-Total Time: 1,751 hrs 17 mins
+Total Time: 1,757 hrs 8 mins
 
-JavaScript         819 hrs 46 mins ############-------------   46.81 %
-TypeScript         675 hrs 38 mins ##########---------------   38.58 %
-Other              75 hrs 56 mins  #------------------------   04.34 %
-Bash               36 hrs 3 mins   #------------------------   02.06 %
+JavaScript         820 hrs 36 mins ############-------------   46.70 %
+TypeScript         680 hrs 15 mins ##########---------------   38.71 %
+Other              76 hrs 5 mins   #------------------------   04.33 %
+Bash               36 hrs 16 mins  #------------------------   02.06 %
 Prisma             18 hrs 37 mins  -------------------------   01.06 %
-CSS                13 hrs 56 mins  -------------------------   00.80 %
+CSS                13 hrs 56 mins  -------------------------   00.79 %
 ```
 
 <!--END_SECTION:waka-->
